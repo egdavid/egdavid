@@ -13,7 +13,7 @@
 
 I design and build complex systems, and I write the code I recommend.
 
-I'm currently Tech Lead on a large-scale European integration project in Brussels (public sector). Before that, I worked for an EU institution and on 50+ projects, either directly or through integrators.
+I'm currently Tech Lead on a large-scale European integration project in Brussels (public sector). Over the years I've worked on 50+ projects, either directly or through integrators.
 
 Most of my work is private or under NDA, which is why the public repos here are mostly old experiments. The contribution graph tells the real story.
 
